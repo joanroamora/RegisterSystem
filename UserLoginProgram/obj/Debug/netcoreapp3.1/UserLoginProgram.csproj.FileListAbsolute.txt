@@ -1,0 +1,14 @@
+C:\Users\57350\source\repos\UserLoginProgram\UserLoginProgram\bin\Debug\netcoreapp3.1\UserLoginProgram.exe
+C:\Users\57350\source\repos\UserLoginProgram\UserLoginProgram\bin\Debug\netcoreapp3.1\UserLoginProgram.deps.json
+C:\Users\57350\source\repos\UserLoginProgram\UserLoginProgram\bin\Debug\netcoreapp3.1\UserLoginProgram.runtimeconfig.json
+C:\Users\57350\source\repos\UserLoginProgram\UserLoginProgram\bin\Debug\netcoreapp3.1\UserLoginProgram.runtimeconfig.dev.json
+C:\Users\57350\source\repos\UserLoginProgram\UserLoginProgram\bin\Debug\netcoreapp3.1\UserLoginProgram.dll
+C:\Users\57350\source\repos\UserLoginProgram\UserLoginProgram\bin\Debug\netcoreapp3.1\UserLoginProgram.pdb
+C:\Users\57350\source\repos\UserLoginProgram\UserLoginProgram\obj\Debug\netcoreapp3.1\UserLoginProgram.csproj.AssemblyReference.cache
+C:\Users\57350\source\repos\UserLoginProgram\UserLoginProgram\obj\Debug\netcoreapp3.1\UserLoginProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57350\source\repos\UserLoginProgram\UserLoginProgram\obj\Debug\netcoreapp3.1\UserLoginProgram.AssemblyInfoInputs.cache
+C:\Users\57350\source\repos\UserLoginProgram\UserLoginProgram\obj\Debug\netcoreapp3.1\UserLoginProgram.AssemblyInfo.cs
+C:\Users\57350\source\repos\UserLoginProgram\UserLoginProgram\obj\Debug\netcoreapp3.1\UserLoginProgram.csproj.CoreCompileInputs.cache
+C:\Users\57350\source\repos\UserLoginProgram\UserLoginProgram\obj\Debug\netcoreapp3.1\UserLoginProgram.dll
+C:\Users\57350\source\repos\UserLoginProgram\UserLoginProgram\obj\Debug\netcoreapp3.1\UserLoginProgram.pdb
+C:\Users\57350\source\repos\UserLoginProgram\UserLoginProgram\obj\Debug\netcoreapp3.1\UserLoginProgram.genruntimeconfig.cache
